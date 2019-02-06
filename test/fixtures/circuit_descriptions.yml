@@ -1,0 +1,41 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  delivery_point: MyString
+  access_type: MyString
+  access_provider: MyString
+  provider_info: MyString
+  address: MyString
+  client_switch: MyString
+  dgo: MyString
+  approach: MyString
+  fiber_number: MyString
+  fiber_assignor: MyString
+  ring: MyString
+  latitude: 1.5
+  longitude: 1.5
+  station: one
+  county: one
+  access_station: MyString
+  client_station: MyString
+  equipment: one
+
+two:
+  delivery_point: MyString
+  access_type: MyString
+  access_provider: MyString
+  provider_info: MyString
+  address: MyString
+  client_switch: MyString
+  dgo: MyString
+  approach: MyString
+  fiber_number: MyString
+  fiber_assignor: MyString
+  ring: MyString
+  latitude: 1.5
+  longitude: 1.5
+  station: two
+  county: two
+  access_station: MyString
+  client_station: MyString
+  equipment: two

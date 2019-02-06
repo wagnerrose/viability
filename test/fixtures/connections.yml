@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cluster_name: MyString
+  arc_number: 1
+  equipment: one
+
+two:
+  cluster_name: MyString
+  arc_number: 1
+  equipment: two

@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  ip_address: MyString
+  firmware: MyString
+  description: MyText
+  type: 1
+  status: 1
+  station: one
+
+two:
+  name: MyString
+  ip_address: MyString
+  firmware: MyString
+  description: MyText
+  type: 1
+  status: 1
+  station: two

@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: MyString
+  description: MyString
+  service: one
+  status: 1
+  routing: 1
+  asn: 1
+  bandwidth: 1
+  bandwidth_activated: 1
+  activation_date: 2019-01-24
+  contract: MyString
+  sap: 1
+  company: one
+
+two:
+  number: MyString
+  description: MyString
+  service: two
+  status: 1
+  routing: 1
+  asn: 1
+  bandwidth: 1
+  bandwidth_activated: 1
+  activation_date: 2019-01-24
+  contract: MyString
+  sap: 1
+  company: two
